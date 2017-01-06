@@ -1,9 +1,5 @@
 node-call-signature (0.0.2-1) UNRELEASED; urgency=low
 
-  [ FIX_ME debian author  Fri, 06 Jan 2017 11:16:24 +0000 ]
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #850138)
 
-  [ sudhanshu allurwar ]
-  * New upstream release
-
- -- sudhanshu allurwar <root@debian-sid>  Fri, 06 Jan 2017 11:17:22 +0000
+ -- sudhanshu allurwar <sudhanshuallurwar@gmail.com>  Wed, 04 Jan 2017 10:39:16 +0000
