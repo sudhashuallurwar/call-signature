@@ -1,4 +1,4 @@
-node-call-signature (0.0.2-1) UNRELEASED; urgency=low
+node-call-signature (0.0.2-1) experimental; urgency=low
 
   * Initial release (Closes: #850138)
 
