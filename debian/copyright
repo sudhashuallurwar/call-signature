@@ -4,11 +4,11 @@ Upstream-Contact: https://github.com/jamestalmage/call-signature/issues
 Source: https://github.com/jamestalmage/call-signature#readme
 
 Files: *
-Copyright: 2017 James Talmage <james@talmage.io> (github.com/jamestalmage)
+Copyright: James Talmage <james@talmage.io> (github.com/jamestalmage)
 License: Expat
 
 Files: debian/*
-Copyright: 2017 FIX_ME debian author
+Copyright: sudhanshu allurwar <sudhanshuallurwar@gmail.com>
 License: Expat
 
 License: Expat
